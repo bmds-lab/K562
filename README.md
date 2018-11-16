@@ -1,4 +1,4 @@
-# K562
+# K562 allele-specific CRISPR target detection
 
 Identification of allele-specific CRISPR targets in the K562 cell line, as described in Zhou et al., "Comprehensive, integrated, and phased whole-genome analysis of the primary ENCODE cell line K562".
 
